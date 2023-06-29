@@ -100,5 +100,4 @@ const Search = () => {
   );
 };
 
-//export 
 export default Search;
