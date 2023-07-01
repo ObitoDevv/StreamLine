@@ -18,7 +18,7 @@ const Search = () => {
   const [err, setErr] = useState(false);
 
   const { currentUser } = useContext(AuthContext);
-
+// used for handleing Search in  query . 
   const handleSearch = async () => {
     const q = query(
       collection(db, "users"),
