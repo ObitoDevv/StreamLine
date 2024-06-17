@@ -3,7 +3,6 @@
 ## A secure chat-application build with firebase , react and node. It has the sign up authentication and end-to-end encrypted messaging feature.
 
 
- Readme
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
